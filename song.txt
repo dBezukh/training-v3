@@ -25,3 +25,5 @@ from newFeature 2 commit
 from newFeature
 
 from newFeature
+-------
+from main
