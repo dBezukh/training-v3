@@ -21,3 +21,7 @@ training 2 commits
 
 ----------
 from newFeature 2 commit
+
+from newFeature
+
+from newFeature
