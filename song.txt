@@ -18,6 +18,3 @@ training 2 commits
 2
 
 5555555
-
-sssssssssssss
-1
